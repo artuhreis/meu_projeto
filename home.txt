@@ -1,1 +1,2 @@
-Essa é uma linha de textogit
+Essa é uma linha de texto.
+Segunda linha de texto.
